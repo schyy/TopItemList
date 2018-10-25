@@ -35,7 +35,7 @@ class ContentController extends Controller
         ];
 
         $itemParams = [
-            'language' => 'de'
+            'language' => 'en'
         ];
 
         $resultItems = $itemRepository
