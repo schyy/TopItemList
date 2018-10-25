@@ -4,13 +4,5 @@
     "namespace"         :"TopItems",
     "author"            :"Schyy",
     "type"              :"template",
-    "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider",
-    "dataProviders"         :
-    [
-      {
-          "key"           :"TopItems\\Containers\\TopItemsContainer",
-          "name"          :"TopItems",
-          "description"   :""
-      }
-    ]
+    "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
 }
